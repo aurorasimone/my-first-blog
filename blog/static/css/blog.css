@@ -1,16 +1,16 @@
 body {
-	padding-top: 15px;
-	padding-left: 50px;
+	padding-left: 0;
+	color: #666666;
 }
 
 .page-header {
-    background-color: #000000;
+    background-color: #fdfdaf;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 20px 50px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #C390D4;
+    color: #000000;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -25,7 +25,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: #90C3D4;
+    color: #afaffd;
 }
 
 .save {
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 
 .post h1 a, .post h1 a:visited {
